@@ -3,6 +3,3 @@ Functional requirement
 login
 Placement Portal
 View Attendance
-Security check 
-useability
-saclibility 
